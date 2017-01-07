@@ -1,0 +1,32 @@
+.page-header{text-align:center;
+}
+.form-container{
+   padding-left:500px;
+    font-family:fantasy;
+}
+input{width:200px;
+border-radius:5px;
+}
+
+.form-container >p{font-family:sans-serif;
+font-size: 12pt;}
+
+textarea.form-control{
+width:500px;
+resize:none;
+}
+.errors{color:white;
+background-color:firebrick;
+    font-family:sans-serif;
+    font-size:12pt;
+    width:500px;
+    border-radius: 5px;
+}
+li {list-style-type: none;}
+/*edit the sucess message*/
+.success{background-color:greenyellow;
+color:green;
+width:500px;
+font-size:12pt;
+font-family:sans-serif;
+}
